@@ -1,4 +1,4 @@
-name := """ics-play-bootstrap"""
+name := """playresponsivecastlehigh1"""
 
 version := "1.0-SNAPSHOT"
 

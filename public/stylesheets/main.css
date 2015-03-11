@@ -1,3 +1,53 @@
 body {
-  padding-top: 70px;  /* Move body of page below navbar. */
+  font-family: "Open Sans", sans-serif;
+  color: gray;
+  background-color: gray;
+}
+
+.page-content {
+  padding: 10px;
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+.topimg{
+  background-image: url("http://castlehs.k12.hi.us/images/header.jpg");
+  background-repeat: no-repeat;
+  height: 280px;
+  background-size: cover;
+
+
+}
+.navbar-inverse{
+  background-color:  #710C0C;
+  color:gray;
+  font-size: 16px;
+}
+.well{
+  background-color: #710C0C;
+  color: gray;
+  border-color: #710C0C;
+}
+.well li{
+  list-style: none;
+}
+.well li a{
+  color:gray;
+}
+h2{
+  font-size: 18px;
+  text-align: center;
+
+}
+.knightimg{
+  background-image: url("http://castlehs.k12.hi.us/images/frontpage.jpg");
+  height: 400px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+
 }
